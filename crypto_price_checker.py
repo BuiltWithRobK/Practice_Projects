@@ -1,3 +1,5 @@
+#CHATGPT PROMPT
+
 import requests
 
 def get_crypto_price(crypto_id="bitcoin"):
