@@ -13,4 +13,4 @@ while True:
             break
     except ValueError:
         #handles if user inputs a non numerical value
-        print("Invalid input, please enter a numerical value")
+        print("Invalid input, choose a numerical value")
